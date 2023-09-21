@@ -1,0 +1,48 @@
+</div>
+        <div class="col-md-4">
+            <p></p> 
+            <p>
+                <h1>¿Quieres ser mi novia Itzel🧐💚?</h1>
+                <h2><p>Este es un mensaje especial para ti.</p></h2>
+                <h2>¿Aceptarías ser mi novia Itzel💚?</p></h2>
+            </p>
+        </div>
+        <div class="col-md-4 position-relative">
+            <div class="card position-absolute top-0 end-0" style="width: 200px;"> <!-- -->
+                <img class="rounded-circle" src="IMG_5046.PNG" alt="">   <!--Es la chava enamorada -->
+            </div>
+            <div class="col-md-3 position-relative">
+                <div class="card position-absolute top-right on-0" style="width: 200px;">
+                    <img class="card-img-under" src="imagen 6.jpg" alt=""> <!-- Es la foto de una llamada-->
+                </div>           
+            </div>
+            <!-- <div class="col-md-3 position-relative">
+                <div class="card position-absolute top-right on-0" style="width: 200px;">
+                    <img class="card-img-under" src="Imagen de WhatsApp 2023-09-19 a las 08.10.54.jpg" alt=""> Es la foto de una llamada
+                </div>           
+            </div> -->
+        </div>
+    <br>
+    <div class="row">
+        <div class="col-md-5"></div>
+        <div class="col-md-2">
+            <button class="btn btn-primary" onclick="validaRespuesta()">¿Cual es tu respuesta?</button>
+            <br>
+            <br>
+            <div id="divAlerta"></div>
+        </div>
+        <div class="col-md-5"></div>
+    </div>
+    
+</body>
+
+<div class="card position-absolute top-250 end-0" style="width: 200px;">
+    <img class="card-img-top " src="mulan_1998_f1bf1298.jpeg" alt=""> <!--  La imagen de mulan va abajo en la esquina de lado izqueirdo -->
+</div>
+
+<div class="col-md-3 position-relative">
+    <div class="card position-absolute top-right end-0" style="width: 200px;">
+        <img class="card-img-under" src="Imagen de WhatsApp 2023-09-19 a las 08.10.54.jpg" alt=""> <!-- Es la foto de una llamada-->
+    </div>           
+</div>
+</html>
